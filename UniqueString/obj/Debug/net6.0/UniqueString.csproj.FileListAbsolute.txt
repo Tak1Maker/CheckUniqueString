@@ -1,0 +1,5 @@
+/Users/salim/RiderProjects/UniqueString/UniqueString/obj/Debug/net6.0/UniqueString.csproj.AssemblyReference.cache
+/Users/salim/RiderProjects/UniqueString/UniqueString/obj/Debug/net6.0/UniqueString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salim/RiderProjects/UniqueString/UniqueString/obj/Debug/net6.0/UniqueString.AssemblyInfoInputs.cache
+/Users/salim/RiderProjects/UniqueString/UniqueString/obj/Debug/net6.0/UniqueString.AssemblyInfo.cs
+/Users/salim/RiderProjects/UniqueString/UniqueString/obj/Debug/net6.0/UniqueString.csproj.CoreCompileInputs.cache
