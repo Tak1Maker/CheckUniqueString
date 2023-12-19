@@ -2,10 +2,17 @@
 
 bool Test(string word)
 {
-    var keys = word.Split();
-    foreach (var elements in word)
+    var isUnique = false;
+    
+    for (int i = 0; i < word.Length; i++)
     {
-        
+        for (int j = 0; j < word.Length; j++)
+        {
+            if (word[i] == word[j] && i != j)
+                isUnique = true;
+        }
     }
-    return true;
+    return isUnique;
 }
+
+Console.WriteLine(Test("test"));
